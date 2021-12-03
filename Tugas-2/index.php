@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="description" content="Membuat box / kotak / persegi / persegi panjang full  css">
-    <meta name="author" content="MUHAMMAD ADRIAN REYESTA">
+    <meta name="author" content="GLADIS TRI OKTAVIAN">
     <title>kotak</title>
     <link rel="stylesheet" href="style.css">
 </head>
